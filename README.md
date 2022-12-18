@@ -7,4 +7,4 @@ I'm currently working a game in UE5, as well as new resources for FiveM vehicle 
 [Visit my FiveM Community](https://discord.gg/dawnstar-fivem)<br>
 [Visit my Website](https://dwnstr.com)
 
-- 📫 How to reach me: Add me on Discord! Floh#1776
+> How to reach me: Add me on Discord! Floh#1776
