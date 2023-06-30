@@ -6,10 +6,10 @@ I'm an Unreal Engine 5 Technical Artist and Generalist, as well as a Front-end d
 Currently, I'm working on a website and resources for the FiveM development community and I am also excited to learn Verse for Unreal Engine.
 
 Skills:
-- Unreal Engine
 - React
 - Tailwind
 - Supabase
+- Design
 
 [Visit my FiveM Community](https://discord.gg/zH3k624aSv)<br>
 [Visit my Website](https://dwnstr.com)
