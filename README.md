@@ -10,6 +10,7 @@ Skills:
 - Tailwind
 - Supabase
 - Design
+- VFX
 
 [Visit my FiveM Community](https://discord.gg/zH3k624aSv)<br>
 [Visit my Website](https://dwnstr.com)
