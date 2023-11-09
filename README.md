@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=flohhhhh)
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Flohhhhh?label=Stars%20Received">
 
-I'm a Front-end developer and FiveM developer.<br>
+I'm a Front-end developer and Game Developer.<br>
 Currently, I'm working on a website and resources for the FiveM development community and I am also excited to learn Verse for Unreal Engine.
 
 Skills:
