@@ -5,7 +5,7 @@
 I'm a frontend developer with a background in graphic design. I also enjoy working on video games in Unreal Engine as a VFX Artist and Tech Artist, or in Creative Direction roles.
 
 ## What I'm working on
-Right now I'm working on developing my frontend development portfolio and resume to break into a programming career! Some projects I'm working on now include resources for the FiveM development community.
+Right now I'm working on developing my frontend development portfolio and resume to break into a programming career! Some projects I'm working on now include web tools and resources for the FiveM development community.
 
 ### Current Projects
 - [**Siren Tool**](https://www.dwnstr.com/sirentool/) - I created Siren Tool in 2020, it's my most successful project! It's a development tool for GTA and FiveM devepers to use when creating emergency vehicles. It was made with Unreal Engine.
