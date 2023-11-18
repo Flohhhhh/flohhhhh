@@ -15,6 +15,7 @@ Right now I'm working on developing my frontend development portfolio and resume
 - React
 - Tailwind
 - Supabase
+- LUA
 - Graphic Design
 - Realtime VFX
 - Unreal Engine Tech Art
