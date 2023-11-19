@@ -9,7 +9,7 @@ Right now I'm working on developing my frontend development portfolio and resume
 
 ### Current Projects
 - [**Siren Tool**](https://www.dwnstr.com/sirentool/) - I created Siren Tool in 2020, it's my most successful project! It's a development tool for GTA and FiveM devepers to use when creating emergency vehicles. It was made with Unreal Engine.
-- [**ULC Config Generator V2**](https://github.com/dwnstr/ulc-web) - The ULC Config Generator is a tool to great the configuration files for my [Ultimate Lighting Controller](https://github.com/Flohhhhh/ultimate-lighting-controller) script using a web based GUI!
+- [**ULC Config Generator V2**](https://github.com/dwnstr/ulc-app) - The ULC Config Generator is a tool to great the configuration files for my [Ultimate Lighting Controller](https://github.com/Flohhhhh/ultimate-lighting-controller) script using a web based GUI!
 
 ## My skills
 - React
