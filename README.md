@@ -23,5 +23,4 @@ Right now I'm working on developing my frontend development portfolio and resume
 [Visit my FiveM Community](https://discord.gg/zH3k624aSv)<br>
 
 > ## How to reach me:
-> - [Connect on LinkedIn ](https://www.linkedin.com/in/cgustavson/)
 > - Add me on Discord! @flohhh
