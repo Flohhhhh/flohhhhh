@@ -5,7 +5,7 @@
 I’m a full-stack web engineer with a background in graphic design, working in photography, video, and game development. I use design thinking directly in my programming to build better UI and UX.
 
 ## What I'm working on
-Right now I'm focusing on developing my ability to create full-stack applications rather than just front-end code. My main project right now is Sharply and a few related product ideas, see more about Sharply below.
+Right now I'm just trying to keep up with how fast things are changing, and how fast I'm learning things that I maybe don't even want to know.
 
 ### Current Projects
 - [**Sharply**](https://github.com/Flohhhhh/sharply) - Sharply is an open-source, crowd-sourced photography gear database complete with powerful search features, user profiles and reviews, and editorial content all inside a modern minimal interface.
