@@ -4,8 +4,6 @@
 
 I’m a full-stack web engineer with a background in graphic design, working in photography, video, and game development. I use design thinking directly in my programming to build better UI and UX.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=flohhhhh)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## What I'm working on
 Right now I'm just trying to keep up with how fast things are changing, and how fast I'm learning things that I maybe don't even want to know.
 
